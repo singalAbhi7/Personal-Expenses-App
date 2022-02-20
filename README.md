@@ -5,10 +5,13 @@ It assists you in planning for future money management by centralizing all of yo
 
 Some Features:
 
- ~Adding Daily expenses renders a weekly chart based on the amount and day of transaction added
- ~New transactions can be added in the future or past using the calendar.
- ~Each transaction is reffered with a unique ID to distinguish.
- ~Transactions can be deleted and the chart will be updated accordingly.
+  ~Adding Daily expenses renders a weekly chart based on the amount and day of transaction added
+ 
+  ~New transactions can be added in the future or past using the calendar.
+  
+  ~Each transaction is reffered with a unique ID to distinguish.
+  
+  ~Transactions can be deleted and the chart will be updated accordingly.
  
 Technical Stuff:
 
